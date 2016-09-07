@@ -1,2 +1,2 @@
 # hello-world
-My first business project
+I am an SQL database programmer. 
